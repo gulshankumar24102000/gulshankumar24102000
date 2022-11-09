@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulshankumar24102000" alt="gulshankumar24102000" /></a> </p>
 
-- 🔭 I’m currently working on **progreva**
+- 🔭 I’m currently working on **custom-bakers,khushi-advertising**
 
 - 🌱 I’m currently learning **React Api**
 
