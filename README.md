@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **custom-bakers,khushi-advertising**
 
-- 🌱 I’m currently learning **React Api**
+- 🌱 I’m currently working on **React,next,node js**
 
 - 📫 How to reach me **gulshankumar24102000@gmail.com**
 
